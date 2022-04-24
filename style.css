@@ -43,6 +43,7 @@ header{
     margin-bottom: 30px;
 }
 .container{
+    margin: 50px 0px;
     padding: 3% 8%;
 }
 .sub-heading{
@@ -104,4 +105,15 @@ h3{
 }
 .extraAlign{
     display: flex;
+}
+.imgWidth1{
+    width: 50%;
+}
+.appimg{
+    width: 60%;
+}
+.app-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
