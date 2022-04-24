@@ -1,7 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap');
+
 *{
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
 }
 /* .main-width{
     width: 80%;
@@ -46,6 +49,7 @@ header{
     margin: 50px 0px;
     padding: 3% 8%;
 }
+/* card section */
 .sub-heading{
     text-align: center;
     font-size: 4rem;
@@ -58,7 +62,7 @@ header{
 }
 .card1{
     width: 370px;
-    height: 350px;
+    height: 390px;
     padding: 20px;
     background-color: rgb(118, 209, 248);
     border-radius: 10px;
@@ -74,7 +78,7 @@ header{
 }
 .card2{
     width: 370px;
-    height: 350px;
+    height: 390px;
     padding: 20px;
     background-color: rgb(238, 145, 219);
     border-radius: 10px;
@@ -82,7 +86,7 @@ header{
 }
 .card3{
     width: 370px;
-    height: 350px;
+    height: 390px;
     padding: 20px;
     background-color: rgb(225, 240, 167);
     border-radius: 10px;
@@ -129,5 +133,5 @@ h3{
     padding-bottom: 15px;
 }
 .footer-section p{
-    font-size: 17px;
+    font-size: 15px;
 }
