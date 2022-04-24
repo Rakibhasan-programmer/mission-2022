@@ -117,3 +117,17 @@ h3{
     justify-content: center;
     align-items: center;
 }
+/* footer section */
+.footer-section{
+    background-color: black;
+    padding: 50px;
+    text-align: center;
+    color: white;
+}
+.footer-section h4{
+    font-size: 2rem;
+    padding-bottom: 15px;
+}
+.footer-section p{
+    font-size: 17px;
+}
